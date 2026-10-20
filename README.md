@@ -1,16 +1,14 @@
-## Hi there 👋
+ # Hi there, I'm Muhammad Adil 👋
 
-<!--
-**MuhammadAdil01/MuhammadAdil01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer passionate about building scalable web applications, modern user interfaces, and reliable backend systems.I specialize in full-stack & Ai development  with a focus on developing efficient, maintainable, and user-friendly software solutions
 
-Here are some ideas to get you started:
+Currently, I'm working as a Software Developer in @codedesignsolutions, where I've been gaining valuable hands-on experience working on real-world projects, solving technical challenges, and developing practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of coding, I enjoy learning new technologies, exploring software architectures, and working on projects that turn ideas into practical solutions.
+
+
+- LinkedIn:https://www.linkedin.com/in/muhammad-adil-499662388/
+
+- Email:adildil363@gmail.com
+
+
